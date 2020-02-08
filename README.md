@@ -1,7 +1,7 @@
 # osprogramadores-desafios-solucoes
 Desafios que fiz no site do grupo 'osprogramadores'
 
-Se você quer fazer parte deste grupo no Telegram, acesse este link abaixo:
+Se você quer fazer parte deste grupo no Telegram, acesse este link:
 https://t.me/osprogramadores
 
 O site do 'osprogramadores':
